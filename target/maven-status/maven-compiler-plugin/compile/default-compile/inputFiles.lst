@@ -1,0 +1,13 @@
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\config\InMemoryUserDetailsService.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\repository\NotificationRepository.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\controller\NotificationController.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\service\NotificationService.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\security\JwtUtil.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\NotificationServiceApplication.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\model\Notification.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\service\NotificationServiceImpl.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\config\SecurityConfig.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\security\JwtAuthenticationFilter.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\service\EmailService.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\controller\AuthController.java
+C:\Users\Lucas Lucena\Documents\test-user-kafka\src\main\java\com\example\notification\worker\NotificationWorker.java
